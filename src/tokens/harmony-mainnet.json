@@ -246,5 +246,13 @@
     "name": "HarmonApe",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/APE.png"
+  },
+{
+    "chainId": 1666600000,
+    "address": "0x42df7FcA3C696fD6FBDc0B94c89Ae5095c16A735",
+    "symbol": "DOGOCO",
+    "name": "Do Good Coin",
+    "decimals": 5,
+    "logoURI": "https://img1.wsimg.com/isteam/ip/3fd24c3c-aa3a-427e-b7d5-c13d8db27904/Do%20Good%20Coin%20Logo.png/:/rs=w:87,h:87,cg:true,m/cr=w:87,h:87/qt=q:95"
   }
 ]
